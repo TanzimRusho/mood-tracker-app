@@ -1,0 +1,17 @@
+ 
+name: mood_tracker
+description: A simple mood tracking app in Flutter.
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: latest
+  firebase_auth: latest
+  cloud_firestore: latest
+  provider: latest
+
+flutter:
+  uses-material-design: true
