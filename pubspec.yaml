@@ -8,10 +8,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  firebase_core: latest
-  firebase_auth: latest
-  cloud_firestore: latest
-  provider: latest
+  firebase_core: ^2.15.0
+  firebase_auth: ^4.10.0
+  cloud_firestore: ^4.12.0
+
 
 flutter:
   uses-material-design: true
